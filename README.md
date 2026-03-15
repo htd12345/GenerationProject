@@ -1,6 +1,6 @@
 # Backend 目录说明
 
-LLaMA2 + LoRA 垂直领域推理系统后端
+LLaMA2 + LoRA 垂直领域推理系统
 
 ## 项目结构
 
