@@ -1,6 +1,6 @@
 """
 核心模块初始化
-Core module initialization
+core module initialization
 """
 
 from .unified_semantic import (

@@ -1,6 +1,6 @@
 """
 模型模块初始化
-Models module initialization
+models module initialization
 """
 
 from .lora_adapter import (

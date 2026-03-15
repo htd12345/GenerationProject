@@ -1,6 +1,6 @@
 """
 API模块初始化
-API module initialization
+api module initialization
 """
 
 from .main import (
