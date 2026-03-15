@@ -91,7 +91,7 @@ class InferenceConfig:
 class APIConfig:
     """
     API配置类
-    API configuration class
+    api configuration class
 
     Attributes:
         host: 服务主机地址
@@ -113,7 +113,7 @@ class Config:
     统一管理所有配置项，支持从环境变量覆盖
 
     Usage:
-        config = Config()
+        config = config()
         print(config.model.model_name)
     """
 
